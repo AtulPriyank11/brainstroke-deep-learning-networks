@@ -5,3 +5,4 @@ According to that, some data pre-processing techniques were applied. Image folde
 
 Then the pretrained weights of the model are called. Only last few layer’s changes are being done.
 Then we train the model, find accuracy, loss etc. Model is evaluated and model’s classification report is taken out like precision, recall, f1-score, and confusion matrix. Then we test the model by passing a image that will rectify that the image contains stroke or Not Stroke aka Normal or Abnormal.
+![Workflow Diagram for Detection of Brain Stroke](https://github.com/AtulPriyank11/brainstroke-deep-learning-networks/assets/134692859/c3ab9ad7-b410-4cf6-b081-0011ced2e090)
